@@ -1,4 +1,4 @@
-# SGHSS - Projeto Back-end (Escopo Essencial)
+# SGHSS - Projeto Back-end 
 Este repositório contém a implementação mínima do projeto SGHSS (Sistema de Gestão Hospitalar e de Serviços de Saúde)
 focada no **Escopo Essencial**: Autenticação (JWT), CRUD de Pacientes e CRUD de Consultas.
 
